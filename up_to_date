@@ -1,0 +1,9 @@
+git clone
+git add
+git commit
+git push
+git rm
+git mv
+git fetch
+git pull --rebase
+
